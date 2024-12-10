@@ -15,7 +15,7 @@ import androidx.compose.ui.unit.dp
 import com.example.leagueoflegendsapp.R
 
 @Composable
-fun ChampionCard(modifier: Modifier = Modifier) {
+fun ChampionCard() {
     Row(
         horizontalArrangement = Arrangement.spacedBy(10.dp)
     ) {

@@ -18,7 +18,6 @@ activityCompose = "1.9.3"
 composeBom = "2024.11.00"
 ksp = "2.1.0-1.0.29"
 navigationCompose = "2.8.4"
-sandwichKtor = "2.0.16"
 slf4jSimple = "2.0.9"
 
 [libraries]
